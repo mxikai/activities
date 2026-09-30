@@ -26,44 +26,38 @@ Local vendors or stallholders are trying to promote and sell their food, drinks,
 ## 3. Problem or inconvenience
 
 **What may make this task difficult, confusing, unsafe, slow, or inconvenient?**  
-Based on this year's Mugna sa Iligan location, the new location makes it almost inaccessible to visit the venue compared to its previous central location by the highway across KCC Grounds. Paired with the current weather over Iligan and the uncertainty of whether stalls are available or not, it certainly discourages locals to visit. Because of the muddy, out-of-the-way grounds, potential customers avoid walking around to browse, leading to severe drops in foot traffic and lost sales for vendors who paid ₱12,000 for their spots. Oftentimes, businesses would promote themselves through their social media pages, however, I find that even then, it's hard to exactly locate their stall and what hours they start to open.
+Based on this year's Mugna sa Iligan location, the new location makes it almost inaccessible to visit the venue compared to its previous central location by the highway across KCC Grounds. Paired with the current weather over Iligan and the uncertainty of whether stalls are available or not, it certainly discourages locals to visit. Because of the muddy, out-of-the-way grounds, potential customers avoid walking around to browse, leading to severe drops in foot traffic and lost sales for vendors. Oftentimes, businesses would promote themselves through their social media pages, however, I find that even then, it's hard to exactly locate their stall and what hours they start to open.
 
 ---
 
 ## 4. Proposed digital solution
 
 **What digital tool would you propose?**  
-I propose a mobile application with the theme of Mugna sa Iligan's Market Map with the ability to pre-order ahead of time. It provides festival-goers with an interactive digital map of the venue listing all vendor stalls, complete with menu, price lists, live stall updates, and an express pre-ordering feature.
-
-Through the app, visitors can browse menus ahead of time and order before walking over, allowing them to navigate directly to a stall for quick pickup rather than wandering aimlessly through rainy or muddy grounds. For vendors, this drives direct customer traffic and guaranteed sales even during bad weather or unwalkable conditions.
+I propose a mobile web application designed to be Mugna sa Iligan's digital explorer. It is an interactive digital map and directory of the Mugna sa Iligan grounds at the venue it's held. Visitors can open the app on their phones to search for food categories, local crafts, and promos, while viewing a live overhead map that marks stall numbers, stall updates, and covered seating areas.
 
 **How would it help the intended users?**  
-It directly solves the loss of foot traffic caused by the hard-to-reach venue and muddy conditions. By giving visitors a digital map and pre-order system, vendors no longer rely solely on physical walk-ins. Customers can make targeted trips straight to specific stalls to pick up orders quickly or to have their food pre-made should they come without wandering through rain and mud, helping vendors maintain steady sales.
+With businesses promoting themselves on social media, it can sometimes be hard to navigate through the confusing layout of where a certain stall locals and visitors want to visit is. Locals and visitors could then search for what they want and navigate directly to stalls deeper in the grounds. This restores foot traffic for vendors across the entire site, ensuring they still get face-to-face customers despite the difficult physical location.
 
 ---
 
 ## 5. Things users can do
 
-Describe **two specific actions** that users could perform using your proposed system.
-
-1. Stallholders can manage their digital profile in real-time to show menu items, prices, current stock, and status if there are table available or if the place is busy.
-2. Locals and visitors can search for specific food or products on the interactive map and place orders ahead of time.
+1. Visitors can filter stalls by item to discover vendors, view digital menus, and see the best walking path to reach them.
+2. Stallholders can drop live status updates onto their map pin, such as seatings available, menu or good items available or promos, to invite nearby crowd traffic straight to their booth.
 
 ---
 
 ## 6. Important qualities
 
-Identify **two qualities** that would make your proposed system useful. You may consider whether it should be easy to use, fast, reliable, safe, private, accessible, multilingual, low-data, clear, or available during high demand.
-
-### Quality 1: [Write a quality]
+### Quality 1: Real-time updates
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+It lets vendors instantly post when they have dry seating or certain items available, and lets visitors see who is open right now during changing weather so they don't walk through the mud for nothing.
 
-### Quality 2: [Write a quality]
+### Quality 2: Clear and Visual Map Interface
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+Because sometimes it's hard to navigate through the layout of stalls, a visual layout using simple landmarks makes navigation effortless for locals and visitors. Sort of like Google Maps, but for a smaller, more concentrated space like the Mugna sa Iligan.
 
 ---
 
@@ -71,44 +65,24 @@ Identify **two qualities** that would make your proposed system useful. You may 
 
 How could you determine whether your proposed solution actually helped users?
 
-[Examples: Ask users for feedback; observe whether users can complete a task more easily; compare the number of errors or complaints; measure task-completion time; check whether fewer people miss event updates; track whether users can locate venues successfully.]
+1. User feedback from both the vendors and the visitors.
+2. Track if users are able to successfully find the stalls they want.
 
 ---
 
 ## 8. Screenshot or reference
 
-You may include **one screenshot** or reference image only if it does not contain personal, confidential, or sensitive information.
-
-> Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
-
-<!-- Example Markdown image syntax:
-![Brief description of screenshot](path/to/image.png)
--->
+**Reference:**
+Direction feature of Google Maps.
 
 **External sources used, if any:**  
-[Add links or citations here. If you did not use any external sources, write: None.]
+None.
 
 ---
 
 ## AI use declaration
 
-Select **one** option below and complete the applicable details.
-
-- [ ] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
-
-- [ ] **AI tools used.** I used the following AI tool(s): [Write tool name(s), e.g., ChatGPT, Gemini, Copilot].
-
-  **Purpose of use:**  
-  [Describe specifically how you used the tool. Examples: brainstorming possible user groups; clarifying an idea; checking grammar; generating possible questions to consider.]
-
-  **How I reviewed the output:**  
-  [Explain how you checked, revised, verified, or adapted the AI-generated output.]
-
-  **Prompt(s) or summary of interaction:**  
-  [Paste the main prompt(s) used, provide a link to the shared conversation if available, or summarize the interaction clearly enough for the instructor to understand the assistance received.]
-
-> I understand that I remain responsible for the accuracy, originality, and quality of this submission. I confirm that I reviewed and revised any AI-generated content and can explain all ideas submitted under my name.
-
+**No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
 ---
 
